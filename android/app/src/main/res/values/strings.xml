@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="commonChannel">notifier/common_channel</string>
+    <string name="app_name">Crypto Assist</string>
+    <string name="foreground_process_name">crypto.assist.foreground</string>
+    <string name="app_prefs">FlutterSharedPreferences</string>
+</resources>
