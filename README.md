@@ -1,16 +1,40 @@
-# elon_notifier
+# Crypto Assist 🚀📈
 
-An app that notifies when Elon Musk tweets about crypto currencies.
+Crypto Assist is a **Flutter** app that helps crypto enthusiasts stay updated with key market movements and Elon Musk’s tweets about crypto. Stay ahead with real-time alerts based on price fluctuations and social media trends!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d312e29-3f3f-43d2-9ece-42204f6ca02c" alt="Image 1" width="25%"/>
+  <img src="https://github.com/user-attachments/assets/4e6b6da4-78d5-4192-ab82-ba4b29126955" alt="Image 2" width="25%"/>
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+1. **Elon Alarm** 📢  
+   - Get notified whenever **Elon Musk** tweets about **crypto** or any **custom keywords** you set.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. **Limit Alarm** 📊  
+   - Set a price **threshold** for your favorite cryptocurrency and receive an **alert** when it crosses the set **upper or lower limit**.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack 🛠️
+- **Flutter** (Dart)
+- **Twitter API** (for Elon Alarm)
+- **Crypto Market API** (for Limit Alarm)
+- **Firebase / Local Notifications** (for alerts)
+
+## Getting Started 🚀
+1. Clone this repo:
+   ```sh
+   git clone https://github.com/your-repo/crypto-assist.git
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
+
+
+## License 📜
+MIT License.
